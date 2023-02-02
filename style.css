@@ -42,7 +42,7 @@ body {
 .book .book-body .page-wrapper .page-inner section.normal h3 {
   color: var(--quarternary-text);
   background: var(--quarternary-background);
-  max-width: 500px;
+  max-width: 300px;
   padding-left: 15px;
 }
 /* Don't edit below this line!*/
